@@ -1,1 +1,1 @@
-This repository contains all the resources and code which is being used for my flapping wing project at iitk.
+This repository contains all the random resources and code which are being used by me at iitk.
